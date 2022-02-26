@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/WestlakeShen/Personal_Statement/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+尊敬的老师：
+您好！
+    我叫沈佳泳，是南京农业大学植物保护专业2019级的一名学生，现在就读大三，现正准备推免至贵校的博士研究生，希望能够读取贵校的植物保护学院董莎萌教授的博士研究生，进一步在植物保护领域深造自己，提升自己各项能力。下面我将就个人成绩，学术经历，所获成就及道德修养等方面展开个人陈述，请审阅并考察。
+    
+##个人成绩
+     我目前均分89.62，年级排名第四
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+道德修养：
+在思想上，我始终秉持着“勤奋、求实、进取、奉献”的原则来对待工作和生活。同时，我作为一名中共预备党员，始终以严格的要求约束自己，在这样的标准下， 我以马列主义毛泽东思想和邓小平理论为指导思想，结合三个代表和科学发展观，科学指导我的科研生活。
+在学术方面，我的硕士研究生导师**老师经常教导我“在学术问题上，一定要本着勤恳诚实的态度去对待，不骄不躁，不卑不亢”；更要求我“尊重别人的劳动成果，更是对自己最大的尊重”。无论在哪个领域，凡是有所作为的人，都是以诚信二字为根本，我亦以*老师的教导为目标而努力。
+学术经历：
+本科阶段所学专业是机械设计，主修课程有：机械原理、机械设计、理论力学、材料力学、机械制造基础、有限元法应用、机械优化设计应用。
+硕士阶段所学专业是机械工程，主修课程有：机构分析与综合、数值分析、弹塑性力学、机器人运动学与动力学、机械系统动力学、现代控制工程、计算机辅助几何设计与非线性B样条、现代设计理论及方法等。
+我所就读的学校是***，学制三年，第一年统一上课并逐步接触项目研究，第二年正式开始研究项目和撰写论文。我的研究方向是仿生踝关节辅助康复系统研发，机械结构与控制的结合，具体来说，首先设计出来满足人体脚踝关节运动的机械结构，利用ADAMS进行运动学与动力学仿真，其次设计出来踝关节结构的控制系统，然后利用控制系统控制踝关节的运动，使其运动模式按照我们给定的规律运动。
+考博动机:
+***老师的研究方向是物流装备自动化与智能控制，我对老师的研究方向很感兴趣。董老师所主讲的课程《起重机械金属结构》、《结构优化设计》、《结构力学》、《材料力学》是我所感兴趣的，我本身在本科和硕士阶段均从事机械设计专业的学习和研究，除了培养出对这个学科的兴趣之外，也算积累了一些经验，在不多的课余时间里，我会经常阅读一些机械相关的书籍和期刊杂志，与自己之前所学的相互印证，对机械专业方面的知识留下自己的心得体会，也更加希望能在博士阶段的学习和研究中进一步了解和掌握更多的方法和经验，为将来的工作打下良好的基础。
+学习计划
+首要任务是认真学习每一门课程，对我来说理论知识的储备是十分必要的，其次还要对工具类软件等加以重视，如solidworks、adams、ansys、matlab等软件，这些软件的应用性很强，对于机械专业，它们对项目的进度方面有很大的提高，虽然现在能够熟练运用，但是仍不能松懈。通过不断学习和了解，我相信会加深对这个专业喜欢和尊重。
+在学习课程期间应当与老师密切沟通，将知识点梳理出一个明确清晰的脉络，并对错误的认知加以修正和弥补。学习理论知识是为了实验项目更好的进行，所以在把项目进度放在首要位置的前提下，自己充分利用业余时间，阅读国内外相关领域的高水平期刊论文，把握相关领域理论的发展方向，使自己的知识体系紧跟时代的发展。我会结合自己的实际能力和知识储备量来尽可能多的承担项目任务，只有在实验研究中压迫自己的潜力，才能尽可能早的融入到专业当中来。在实验项目中会多与导师交流和探讨，多多听取导师的建议和批评，以便使自己在未来的学术道路上走得更加平稳和成功。
+在完成老师课题期间有些问题可能是自己初次遇到的新问题，对待这样的新问题需要广泛查阅相关资料，从别人已有的理论分析和所使用的工具来提出自己的新想法和新观点，多多听取别人的建议和批评，只有这样才能更好的把问题搞清楚。另外非常需要定期向老师汇报课题的进展情况，听取老师的批评和建议，不断地提高自己的科研水平，根据老师的意见和反馈的信息对课题进行积极的论证。对所需要的数据要进行实地调研保证数据的客观与公正，在此基础上尽快地写出自己的论文初稿，我想通过自身的刻苦与努力以及老师的批评和建议让三年的博士学习更充实，让自己能在科研当中取得出色成绩顺利的拿下博士学位。
+毕业去向
+毕业之后，我希望我在博士中学到的知识能够运用到实际生产中，让这些知识能够充分的发挥，使我的人生价值真正得以实现。我亦同样希望通过我的所学， 能够为社会、国家，乃至这个世界做出一份贡献。
+以上就是我攻读博士学位结合自己的理想、业务水平、就业观念谈了自己的几点想法，真诚希望能读老师的博士研究生。谢谢！
+此致
+    敬礼
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WestlakeShen/Personal_Statement/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
